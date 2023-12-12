@@ -1,0 +1,269 @@
+{
+    "core": {
+        "installed_version": "10.0.5",
+        "latest_version": "10.2.0-beta1",
+        "severity": 2
+    },
+    "modules": {
+        "admin_toolbar": {
+            "installed_version": "3.4.1+5-dev",
+            "latest_version": "3.4.2",
+            "severity": 1
+        },
+        "admin_toolbar_links_access_filter": {
+            "installed_version": "3.4.1+5-dev",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "admin_toolbar_search": {
+            "installed_version": "3.4.1+5-dev",
+            "latest_version": "8.x-1.0",
+            "severity": 1
+        },
+        "admin_toolbar_tools": {
+            "installed_version": "3.4.1+5-dev",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "automated_cron": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "big_pipe": {
+            "installed_version": "10.0.5",
+            "latest_version": "8.x-1.4",
+            "severity": 1
+        },
+        "block": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "block_content": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "breakpoint": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "ckeditor5": {
+            "installed_version": "10.0.5",
+            "latest_version": "1.0.x-dev",
+            "severity": 1
+        },
+        "comment": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "config": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "contact": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "contextual": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "datetime": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "dblog": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "dynamic_page_cache": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "editor": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "field": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "field_ui": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "file": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "filter": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "help": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "history": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "image": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "language": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "link": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "locale": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "menu_link_content": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "menu_ui": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "mysql": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "node": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "options": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "page_cache": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "path": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "path_alias": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "rest": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "restui": {
+            "installed_version": "8.x-1.21",
+            "latest_version": "8.x-1.21",
+            "severity": 2
+        },
+        "search": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "serialization": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "shortcut": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "summary": {
+            "installed_version": "1.0",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "system": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "taxonomy": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "text": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "toolbar": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "tour": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "update": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "user": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "views_ui": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        },
+        "views": {
+            "installed_version": "10.0.5",
+            "latest_version": "8.x-3.x-dev",
+            "severity": 2
+        },
+        "standard": {
+            "installed_version": "10.0.5",
+            "latest_version": "N/A",
+            "severity": null
+        }
+    }
+}
